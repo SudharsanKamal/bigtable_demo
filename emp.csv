@@ -1,0 +1,101 @@
+﻿emp_id,department,name,age,ph_no,designation,performance_rating,salary
+1,Marketing,John Smith,32,1234567890,Marketing Manager,4.5,60000
+2,Finance,Jane Johnson,28,2345678901,Financial Analyst,4.2,50000
+3,HR,Michael Davis,35,3456789012,HR Manager,4.8,70000
+4,Engineering,Sarah Wilson,30,4567890123,Software Engineer,4.3,55000
+5,Marketing,Robert Thompson,29,5678901234,Marketing Specialist,4,45000
+6,Finance,Emily Martinez,33,6789012345,Financial Controller,4.7,65000
+7,HR,David Anderson,31,7890123456,HR Generalist,4.1,50000
+8,Engineering,Laura Rodriguez,34,8901234567,Senior Software Engineer,4.9,80000
+9,Marketing,Steven Taylor,27,9012345678,Marketing Coordinator,4.4,55000
+10,Finance,Amy White,29,1234567890,Financial Planner,4.3,60000
+11,HR,Thomas Clark,32,2345678901,HR Assistant,4,45000
+12,Engineering,Olivia Lewis,31,3456789012,Software Architect,4.8,70000
+13,Marketing,William Hill,28,4567890123,Marketing Manager,4.2,50000
+14,Finance,Sophia Adams,33,5678901234,Financial Analyst,4.7,65000
+15,HR,Ethan Allen,30,6789012345,HR Manager,4.3,55000
+16,Engineering,Ava Baker,35,7890123456,Software Engineer,4.5,60000
+17,Marketing,James Green,29,8901234567,Marketing Specialist,4.1,50000
+18,Finance,Isabella Hall,34,9012345678,Financial Controller,4.9,80000
+19,HR,Mason Young,27,1234567890,HR Generalist,4,45000
+20,Engineering,Elizabeth King,31,2345678901,Senior Software Engineer,4.8,70000
+21,Marketing,Joseph Turner,32,3456789012,Marketing Coordinator,4.4,55000
+22,Finance,Charlotte Scott,29,4567890123,Financial Planner,4.3,60000
+23,HR,Daniel Lee,33,5678901234,HR Assistant,4.7,65000
+24,Engineering,Samantha Walker,30,6789012345,Software Architect,4.2,50000
+25,Marketing,Christopher Adams,28,7890123456,Marketing Manager,4.5,60000
+26,Finance,Avery Martinez,34,8901234567,Financial Analyst,4.1,50000
+27,HR,Henry Anderson,31,9012345678,HR Manager,4.8,70000
+28,Engineering,Ella Rodriguez,35,1234567890,Software Engineer,4.3,55000
+29,Marketing,Andrew Taylor,27,2345678901,Marketing Specialist,4,45000
+30,Finance,Grace White,29,3456789012,Financial Controller,4.9,80000
+31,HR,Liam Clark,32,4567890123,HR Generalist,4.7,65000
+32,Engineering,Aria Lewis,31,5678901234,Senior Software Engineer,4.2,50000
+33,Marketing,Jack Hill,28,6789012345,Marketing Coordinator,4.8,70000
+34,Finance,Victoria Adams,33,7890123456,Financial Planner,4.3,55000
+35,HR,Owen Scott,30,8901234567,HR Assistant,4.5,60000
+36,Engineering,Avery Walker,35,9012345678,Software Architect,4.1,50000
+37,Marketing,Lillian Green,29,1234567890,Marketing Manager,4.5,60000
+38,Finance,Leo Hall,34,2345678901,Financial Analyst,4.2,50000
+39,HR,Alexander Young,27,3456789012,HR Manager,4.8,70000
+40,Engineering,Lucy King,31,4567890123,Software Engineer,4.3,55000
+41,Marketing,Samuel Turner,32,5678901234,Marketing Specialist,4,45000
+42,Finance,Hannah Scott,29,6789012345,Financial Controller,4.7,65000
+43,HR,Christopher Lee,33,7890123456,HR Generalist,4.1,50000
+44,Engineering,Addison Baker,30,8901234567,Senior Software Engineer,4.9,80000
+45,Marketing,Aubrey Thompson,28,9012345678,Marketing Coordinator,4.4,55000
+46,Finance,Riley White,34,1234567890,Financial Planner,4.3,60000
+47,HR,Grace Clark,31,2345678901,HR Assistant,4.8,70000
+48,Engineering,Chloe Lewis,35,3456789012,Software Architect,4.2,50000
+49,Marketing,Lincoln Hill,29,4567890123,Marketing Manager,4.5,60000
+50,Finance,Eleanor Adams,33,5678901234,Financial Analyst,4.1,50000
+51,HR,Nathan Anderson,32,6789012345,HR Manager,4.8,70000
+52,Engineering,Scarlett Rodriguez,31,7890123456,Software Engineer,4.3,55000
+53,Marketing,Alexander Taylor,27,8901234567,Marketing Specialist,4,45000
+54,Finance,Zoe White,29,9012345678,Financial Controller,4.9,80000
+55,HR,Christian Clark,32,1234567890,HR Generalist,4.7,65000
+56,Engineering,Grace Baker,35,2345678901,Senior Software Engineer,4.2,50000
+57,Marketing,Ethan Martinez,29,3456789012,Marketing Coordinator,4.8,70000
+58,Finance,Isabella Scott,33,4567890123,Financial Planner,4.3,55000
+59,HR,Michael Lee,30,5678901234,HR Assistant,4.5,60000
+60,Engineering,Avery Walker,31,6789012345,Software Architect,4.1,50000
+61,Marketing,Lillian Green,35,7890123456,Marketing Manager,4.5,60000
+62,Finance,Leo Hall,28,8901234567,Financial Analyst,4.2,50000
+63,HR,Alexander Young,33,9012345678,HR Manager,4.8,70000
+64,Engineering,Lucy King,32,1234567890,Software Engineer,4.3,55000
+65,Marketing,Samuel Turner,29,2345678901,Marketing Specialist,4,45000
+66,Finance,Hannah Scott,35,3456789012,Financial Controller,4.7,65000
+67,HR,Christopher Lee,28,4567890123,HR Generalist,4.1,50000
+68,Engineering,Addison Baker,33,5678901234,Senior Software Engineer,4.9,80000
+69,Marketing,Aubrey Thompson,32,6789012345,Marketing Coordinator,4.4,55000
+70,Finance,Riley White,29,7890123456,Financial Planner,4.3,60000
+71,HR,Grace Clark,35,8901234567,HR Assistant,4.8,70000
+72,Engineering,Chloe Lewis,28,9012345678,Software Architect,4.2,50000
+73,Marketing,Lincoln Hill,33,1234567890,Marketing Manager,4.5,60000
+74,Finance,Eleanor Adams,32,2345678901,Financial Analyst,4.1,50000
+75,HR,Nathan Anderson,29,3456789012,HR Manager,4.8,70000
+76,Engineering,Scarlett Rodriguez,35,4567890123,Software Engineer,4.3,55000
+77,Marketing,Alexander Taylor,28,5678901234,Marketing Specialist,4,45000
+78,Finance,Zoe White,33,6789012345,Financial Controller,4.9,80000
+79,HR,Christian Clark,32,7890123456,HR Generalist,4.7,65000
+80,Engineering,Grace Baker,29,8901234567,Senior Software Engineer,4.2,50000
+81,Marketing,Ethan Martinez,35,9012345678,Marketing Coordinator,4.8,70000
+82,Finance,Isabella Scott,28,1234567890,Financial Planner,4.3,55000
+83,HR,Michael Lee,33,2345678901,HR Assistant,4.5,60000
+84,Engineering,Lillian Green,32,3456789012,Software Architect,4.1,50000
+85,Marketing,Leo Hall,29,4567890123,Marketing Manager,4.5,60000
+86,Finance,Alexander Young,35,5678901234,Financial Analyst,4.2,50000
+87,HR,Lucy King,28,6789012345,HR Manager,4.8,70000
+88,Engineering,Samuel Turner,33,7890123456,Software Engineer,4.3,55000
+89,Marketing,Hannah Scott,32,8901234567,Marketing Specialist,4,45000
+90,Finance,Christopher Lee,29,9012345678,Financial Controller,4.9,80000
+91,HR,Addison Baker,35,1234567890,HR Generalist,4.7,65000
+92,Engineering,Aubrey Thompson,28,2345678901,Senior Software Engineer,4.2,50000
+93,Marketing,Riley White,33,3456789012,Marketing Coordinator,4.8,70000
+94,Finance,Grace Clark,32,4567890123,Financial Planner,4.3,55000
+95,HR,Chloe Lewis,29,5678901234,HR Assistant,4.5,60000
+96,Engineering,Lincoln Hill,35,6789012345,Software Architect,4.1,50000
+97,Marketing,Eleanor Adams,28,7890123456,Marketing Manager,4.5,60000
+98,Finance,Nathan Anderson,33,8901234567,Financial Analyst,4.2,50000
+99,HR,Scarlett Rodriguez,32,9012345678,HR Manager,4.8,70000
+100,Engineering,Alexander Taylor,29,1234567890,Software Engineer,4.3,55000
