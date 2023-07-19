@@ -1,7 +1,7 @@
 import csv
 from google.cloud import bigtable
 
-project_name = 'prefab-botany-385705'
+project_name = 'project-id'
 instance_name = 'demobt'
 file = 'emp.csv'
 
@@ -16,7 +16,13 @@ with open(file,'r', encoding='utf-8-sig') as fh:
         line = dict(line)
         #print(line)
         row_key = line['emp_id']+"#"+line['department']
+        #row_key is something that uniquely identifies the row. 
+        #Here the row_key will be of the format "1#Marketing"
+
         row = table.row(row_key)
+
+      # row.set_cell('column_family', 'column_qualifier', value)
+
         row.set_cell('pers_info', 'name', line['name'])
         row.set_cell('pers_info', 'age', line['age'])
         row.set_cell('pers_info', 'ph_no', line['ph_no'])
@@ -27,3 +33,5 @@ with open(file,'r', encoding='utf-8-sig') as fh:
         rows.append(row)
 
 table.mutate_rows(rows)
+
+print("Data Loaded Successfully")
